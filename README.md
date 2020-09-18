@@ -1,4 +1,4 @@
-# Nuclei-Imaging
+# Nuclei-Segmentation in Cells.
 
 Deep Learning has wide range of applications in Imaging, and Medical Imaging is one of them. This repository is a Pytorch Adaptation to the work done by Debesh Jha.
 Here, I implemented the paper: DoubleU-Net: A Deep Convolutional Neural Network for Medical Image Segmentation (CBMS 2020).
